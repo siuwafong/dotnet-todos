@@ -57,3 +57,9 @@
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Release/net9.0/TodoApi.pdb
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Release/net9.0/TodoApi.genruntimeconfig.cache
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Release/net9.0/ref/TodoApi.dll
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/web.config
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/appsettings.Development.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/TodoApi.deps.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/TodoApi.runtimeconfig.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Release/net9.0/out/TodoApi.staticwebassets.endpoints.json

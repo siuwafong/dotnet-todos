@@ -1,6 +1,12 @@
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/TodoApi
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/web.config
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/appsettings.Development.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/appsettings.Development.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/TodoApi.deps.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/TodoApi.runtimeconfig.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/out/TodoApi.staticwebassets.endpoints.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/TodoApi.dll
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/TodoApi.deps.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/out/TodoApi.runtimeconfig.json
