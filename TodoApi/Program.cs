@@ -8,8 +8,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowedOrigins", policy =>
     {
         var allowedOrigins = builder.Environment.IsDevelopment()
-            ? new[] { "http://localhost:5173", "https://dotnet-todos.netlify.app/" }
-            : new[] { "https://dotnet-todos.netlify.app/" };
+            ? new[] { "http://localhost:5173", "https://dotnet-todos.netlify.app" }
+            : new[] { "https://dotnet-todos.netlify.app" };
         
         policy.WithOrigins(allowedOrigins)
             .AllowAnyHeader()
