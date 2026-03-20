@@ -3,6 +3,19 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TodoDb>(opt => opt.UseInMemoryDatabase("TodoList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowedOrigins", policy =>
+    {
+        var allowedOrigins = builder.Environment.IsDevelopment()
+            ? new[] { "http://localhost:5173" }
+            : new[] { "https://dotnet-todos-production.up.railway.app" };
+        
+        policy.WithOrigins(allowedOrigins)
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddOpenApiDocument(config =>
@@ -26,6 +39,7 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+app.UseCors("AllowedOrigins");
 app.MapTodoEndpoints();
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";

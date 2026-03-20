@@ -1,5 +1,17 @@
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/web.config
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/web.config
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/appsettings.Development.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/appsettings.Development.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/appsettings.Development.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/appsettings.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/TodoApi.deps.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/TodoApi.runtimeconfig.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/out/TodoApi.staticwebassets.endpoints.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/TodoApi.deps.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/TodoApi.runtimeconfig.json
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/out/TodoApi.staticwebassets.endpoints.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/TodoApi.staticwebassets.endpoints.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/TodoApi
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/bin/Debug/net9.0/TodoApi.deps.json
@@ -40,6 +52,7 @@
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/TodoApi.csproj.CoreCompileInputs.cache
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/TodoApi.sourcelink.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/scopedcss/bundle/TodoApi.styles.css
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/staticwebassets.build.json
 /Users/wilsonfong/Documents/dotnet-minimal-api-tutorial/TodoApi/obj/Debug/net9.0/staticwebassets.development.json
